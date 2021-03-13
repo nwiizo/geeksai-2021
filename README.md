@@ -27,6 +27,7 @@ docker run -p 1323:1323 -t webweb:v1
 
 
 ### 挑戦課題
+- main.go を書き換えて再ビルド再実行の方をしてください
 - [マルチステージビルド](https://matsuand.github.io/docs.docker.jp.onthefly/develop/develop-images/multistage-build/) について調べて対応してください。
 
 

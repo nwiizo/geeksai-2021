@@ -9,7 +9,7 @@
 ```
 docker run -it --rm -d -p 8080:80 --name web nginx
 ```
-#### 挑戦課題
+### 挑戦課題
 - /usr/share/nginx/html を変更してページを変更してください。方法は問いません。
 
 ## [002](./002)
@@ -26,7 +26,7 @@ docker run -p 1323:1323 -t webweb:v1
 ```
 
 
-#### 挑戦課題
+### 挑戦課題
 - [マルチステージビルド](https://matsuand.github.io/docs.docker.jp.onthefly/develop/develop-images/multistage-build/) について調べて対応してください。
 
 
